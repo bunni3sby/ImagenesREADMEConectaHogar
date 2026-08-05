@@ -259,7 +259,7 @@ Durante el desarrollo se buscó:
 
 <div align="center">
 
-![image alt](https://github.com/bunni3sby/ImagenesREADMEConectaHogar/blob/53de5abdf4329f4d961e362561b418b114d4576c/Imagenes/RegistroNewCH.png)
+![image alt](https://github.com/bunni3sby/ImagenesREADMEConectaHogar/blob/5e944303af6c3e464058e9e297c7d019485a210a/Imagenes/ConectaHogarRegistro.png)
 
 </div align="center">
 
