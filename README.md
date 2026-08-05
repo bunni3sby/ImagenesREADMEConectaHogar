@@ -235,34 +235,15 @@ Durante el desarrollo se buscó:
 
 ---
 
-# 📸 Capturas
 
-## Página principal
+
+# Página principal
 
 <div align="center">
 
 ![image alt](https://github.com/bunni3sby/ImagenesREADMEConectaHogar/blob/c39c74c0b3689db9d17fc97766a3b4819ff5010f/Imagenes/PaginaPrincipalCH.png)
 
 </div align="center">
----
-
-## Inicio de sesión
-
-<div align="center">
-
-![image alt](https://github.com/bunni3sby/ImagenesREADMEConectaHogar/blob/c39c74c0b3689db9d17fc97766a3b4819ff5010f/Imagenes/InicioSesionCH.png)
-
-</div align="center">
----
-
-## Registro
-
-<div align="center">
-
-![image alt](https://github.com/bunni3sby/ImagenesREADMEConectaHogar/blob/5e944303af6c3e464058e9e297c7d019485a210a/Imagenes/ConectaHogarRegistro.png)
-
-</div align="center">
-
 ---
 
 
@@ -317,7 +298,12 @@ Durante el desarrollo de este proyecto se aplicaron conocimientos sobre:
 
 <div align="center">
 
-![image alt](https://github.com/bunni3sby/ImagenesREADMEConectaHogar/blob/b982ecf50b012b76c3df8eec564883a2e3b7809b/Imagenes/CodeToCash.jpg)
+<p align="center">
+  <img
+    src="https://github.com/bunni3sby/ImagenesREADMEConectaHogar/blob/b982ecf50b012b76c3df8eec564883a2e3b7809b/Imagenes/CodeToCash.jpg"
+    alt="Code To Cash"
+    width="250">
+</p>
 
 # CODE TO CA$H
 </div>
@@ -331,5 +317,4 @@ Durante el desarrollo de este proyecto se aplicaron conocimientos sobre:
 - Nicolas Gerard Luna | Back End
 - Jorge Ivan Gatica | Back End
 - Aaron Esteban Guerra | Back end
-
 
