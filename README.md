@@ -244,6 +244,7 @@ Durante el desarrollo se buscó:
 ![image alt](https://github.com/bunni3sby/ImagenesREADMEConectaHogar/blob/c39c74c0b3689db9d17fc97766a3b4819ff5010f/Imagenes/PaginaPrincipalCH.png)
 
 </div align="center">
+
 ---
 
 
