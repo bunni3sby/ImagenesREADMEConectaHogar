@@ -243,7 +243,7 @@ Durante el desarrollo se buscó:
 
 ![image alt](https://github.com/bunni3sby/ImagenesREADMEConectaHogar/blob/c39c74c0b3689db9d17fc97766a3b4819ff5010f/Imagenes/PaginaPrincipalCH.png)
 
-<div align="center">
+</div align="center">
 ---
 
 ## Inicio de sesión
@@ -252,7 +252,7 @@ Durante el desarrollo se buscó:
 
 ![image alt](https://github.com/bunni3sby/ImagenesREADMEConectaHogar/blob/c39c74c0b3689db9d17fc97766a3b4819ff5010f/Imagenes/InicioSesionCH.png)
 
-<div align="center">
+</div align="center">
 ---
 
 ## Registro
@@ -261,7 +261,7 @@ Durante el desarrollo se buscó:
 
 ![image alt](https://github.com/bunni3sby/ImagenesREADMEConectaHogar/blob/53de5abdf4329f4d961e362561b418b114d4576c/Imagenes/RegistroNewCH.png)
 
-<div align="center">
+</div align="center">
 
 ---
 
@@ -317,13 +317,13 @@ Durante el desarrollo de este proyecto se aplicaron conocimientos sobre:
 
 <div align="center">
 
+![image alt](https://github.com/bunni3sby/ImagenesREADMEConectaHogar/blob/b982ecf50b012b76c3df8eec564883a2e3b7809b/Imagenes/CodeToCash.jpg)
 
 # CODE TO CA$H
+</div>
 
-<p align="center">
-![image alt](https://github.com/bunni3sby/ImagenesREADMEConectaHogar/blob/7cc78c87bc99ca0ba767dde3be38dc549f9bef8d/CodeToCash.jpg)
-  
-</p>
+
+
 
 - Valentina Milena Lulic | Front End
 - Denisse Labrana Henriquez | Front End
@@ -331,4 +331,5 @@ Durante el desarrollo de este proyecto se aplicaron conocimientos sobre:
 - Nicolas Gerard Luna | Back End
 - Jorge Ivan Gatica | Back End
 - Aaron Esteban Guerra | Back end
+
 
